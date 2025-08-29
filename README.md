@@ -86,5 +86,3 @@ This project depends on the compiler package, which includes:
 * Data types and supporting classes.
 
   Please note: The compiler package is private and cannot be shared publicly.
-
-Would you like me to also add a **diagram of the compilation pipeline** (Source Code → Lexer → Parser → Symbol Table + Intermediate Code) inside the README, so it looks more visual and professional for GitHub?
